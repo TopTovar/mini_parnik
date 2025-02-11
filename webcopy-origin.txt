@@ -1,0 +1,364 @@
+Uri: https://conoret.com/dsp?h=netko.fun&r=0.5201250061620994
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\dsp
+Content Type: text/javascript
+
+Uri: https://kyltuvator.bestshop-ua.fun/
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\index.htm
+Content Type: text/html
+
+Uri: https://kyltuvator.bestshop-ua.fun/css/GothamPro.css
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\css\GothamPro.css
+Content Type: text/css
+
+Uri: https://kyltuvator.bestshop-ua.fun/css/reset.css
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\css\reset.css
+Content Type: text/css
+
+Uri: https://kyltuvator.bestshop-ua.fun/css/roboto.css
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\css\roboto.css
+Content Type: text/css
+
+Uri: https://kyltuvator.bestshop-ua.fun/css/styles.css
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\css\styles.css
+Content Type: text/css
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/roboto.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\roboto.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/roboto.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\roboto.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/roboto.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\roboto.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoblack.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoblack.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoblack.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoblack.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoblack.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoblack.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoblackitalic.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoblackitalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoblackitalic.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoblackitalic.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoblackitalic.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoblackitalic.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotobold.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotobold.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotobold.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotobold.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotobold.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotobold.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotobolditalic.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotobolditalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotobolditalic.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotobolditalic.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotobolditalic.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotobolditalic.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoitalic.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoitalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoitalic.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoitalic.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotoitalic.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotoitalic.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotolight.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotolight.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotolight.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotolight.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotolight.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotolight.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotolightitalic.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotolightitalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotolightitalic.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotolightitalic.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotolightitalic.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotolightitalic.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotomedium.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotomedium.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotomedium.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotomedium.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotomedium.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotomedium.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotomediumitalic.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotomediumitalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotomediumitalic.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotomediumitalic.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotomediumitalic.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotomediumitalic.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotothin.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotothin.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotothin.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotothin.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotothin.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotothin.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotothinitalic.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotothinitalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotothinitalic.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotothinitalic.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/robotothinitalic.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\robotothinitalic.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Bold.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Bold.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Bold.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Bold.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Light.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Light.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Light.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Light.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Light.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Medium.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Medium.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Medium.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro-Medium.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro.ttf
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro.ttf
+Content Type: application/octet-stream
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro.woff
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro.woff
+Content Type: font/woff
+
+Uri: https://kyltuvator.bestshop-ua.fun/fonts/subset-GothamPro.woff2
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\fonts\subset-GothamPro.woff2
+Content Type: font/woff2
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/12.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\12.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/13.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\13.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/14.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\14.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/expert_icon.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\expert_icon.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/favicon.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\favicon.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/input_name.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\input_name.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/input_phone.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\input_phone.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/list_2_icon.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\list_2_icon.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/offer.webp
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\offer.webp
+Content Type: image/webp
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/ofr_bull.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\ofr_bull.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/ofr_list1.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\ofr_list1.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/ofr_list2.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\ofr_list2.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/order_icons.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\order_icons.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/price.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\price.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/prod_count_arrow.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\prod_count_arrow.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/rating.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\rating.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/reviews_like.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\reviews_like.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/rev_ava1.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\rev_ava1.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/rev_ava2.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\rev_ava2.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/rev_ava3.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\rev_ava3.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/rosp.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\rosp.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/s2_alert.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\s2_alert.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/s4_img.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\s4_img.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/s5_icon1.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\s5_icon1.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/s5_icon2.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\s5_icon2.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/s6_bg.jpg
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\s6_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/sale.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\sale.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/top_line.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\top_line.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/images/top_line_icon.png
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\images\top_line_icon.png
+Content Type: image/png
+
+Uri: https://kyltuvator.bestshop-ua.fun/js/fbevents.js
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\js\fbevents.js
+Content Type: application/javascript
+
+Uri: https://kyltuvator.bestshop-ua.fun/js/jquery.min.js
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://kyltuvator.bestshop-ua.fun/js/lib.js
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\js\lib.js
+Content Type: application/javascript
+
+Uri: https://kyltuvator.bestshop-ua.fun/js/main.js
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\js\main.js
+Content Type: application/javascript
+
+Uri: https://kyltuvator.bestshop-ua.fun/js/phonePrefix.js
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\js\phonePrefix.js
+Content Type: application/javascript
+
+Uri: https://kyltuvator.bestshop-ua.fun/js/previewYouTube.js
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: https://kyltuvator.bestshop-ua.fun/sogl.html
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\sogl.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=5544605152298193&ev=PageView&noscript=1
+File Name: C:\Users\fidje\OneDrive\Робочий стіл\New folder\kyltuvator.bestshop-ua.fun\tr
+Content Type: text/plain
+
